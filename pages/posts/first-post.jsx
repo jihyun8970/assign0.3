@@ -7,7 +7,7 @@ export default function FirstPost() {
       <h2>
         <Link href="/" target='_blank'>Back to home</Link>
       </h2>
-      <p>나는 김지현이다.</p>
+      <p>나는 김지현입니다.</p>
       <img src='/flower.jpg' width={400} height={300} alt='FLOWER' className='flower' />
     </div>
   );
