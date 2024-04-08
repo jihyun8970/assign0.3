@@ -9,6 +9,7 @@ export default function FirstPost() {
       </h2>
       <p>나는 김지현입니다.</p>
       <img src='/flower.jpg' width={400} height={300} alt='FLOWER' className='flower' />
+      <p>행복하고 웃음 가득한 나날들 보내세요~~</p>
     </div>
   );
 }
